@@ -5,7 +5,7 @@ specifiers:
   '@babel/preset-env': 7.12.11
   '@babel/preset-typescript': 7.12.7
   '@types/chrome': 0.0.135
-  '@types/jest': 26.0.20
+  '@types/jest': 26.0.24
   '@types/node': 14.14.20
   '@types/sinon': ^10.0.0
   '@typescript-eslint/eslint-plugin': 4.17.0
@@ -36,7 +36,7 @@ devDependencies:
   '@babel/preset-env': 7.12.11_@babel+core@7.12.17
   '@babel/preset-typescript': 7.12.7_@babel+core@7.12.17
   '@types/chrome': 0.0.135
-  '@types/jest': 26.0.20
+  '@types/jest': 26.0.24
   '@types/node': 14.14.20
   '@types/sinon': 10.0.13
   '@typescript-eslint/eslint-plugin': 4.17.0_4etie2swpl7htpxd52hzmulpru
@@ -1734,8 +1734,8 @@ packages:
       '@types/istanbul-lib-report': 3.0.0
     dev: true
 
-  /@types/jest/26.0.20:
-    resolution: {integrity: sha512-9zi2Y+5USJRxd0FsahERhBwlcvFh6D2GLQnY2FH2BzK8J9s9omvNHIbvABwIluXa0fD8XVKMLTO0aOEuUfACAA==}
+  /@types/jest/26.0.24:
+    resolution: {integrity: sha512-E/X5Vib8BWqZNRlDxj9vYXhsDwPYbPINqKF9BsnSoon4RQ0D9moEuLD8txgyypFLH7J4+Lho9Nr/c8H0Fi+17w==}
     dependencies:
       jest-diff: 26.6.2
       pretty-format: 26.6.2
@@ -6230,7 +6230,7 @@ packages:
       jest: '>=26 <27'
       typescript: '>=3.8 <5.0'
     dependencies:
-      '@types/jest': 26.0.20
+      '@types/jest': 26.0.24
       bs-logger: 0.2.6
       buffer-from: 1.1.2
       fast-json-stable-stringify: 2.1.0
