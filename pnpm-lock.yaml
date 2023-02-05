@@ -4,7 +4,7 @@ specifiers:
   '@babel/core': 7.12.17
   '@babel/preset-env': 7.12.11
   '@babel/preset-typescript': 7.12.7
-  '@types/chrome': 0.0.135
+  '@types/chrome': 0.0.212
   '@types/jest': 26.0.20
   '@types/node': 14.14.20
   '@types/sinon': ^10.0.0
@@ -35,7 +35,7 @@ devDependencies:
   '@babel/core': 7.12.17
   '@babel/preset-env': 7.12.11_@babel+core@7.12.17
   '@babel/preset-typescript': 7.12.7_@babel+core@7.12.17
-  '@types/chrome': 0.0.135
+  '@types/chrome': 0.0.212
   '@types/jest': 26.0.20
   '@types/node': 14.14.20
   '@types/sinon': 10.0.13
@@ -1673,8 +1673,8 @@ packages:
       '@babel/types': 7.19.0
     dev: true
 
-  /@types/chrome/0.0.135:
-    resolution: {integrity: sha512-SczB5P5mIgQWHAeiimlYg5VFvuQKCw4Q5cAzVD7II1Czf4U0222jb3mTHUd1qM0BRJ/kPtzybBde+Zy2sdx/LA==}
+  /@types/chrome/0.0.212:
+    resolution: {integrity: sha512-O9blKfj6mQyBvkexEa71xcpRfkjAu8izQD3qGYfdwffk+mJhF7eogz628bZr5dETT6Eu7vU0stUGYG/+EQWj9g==}
     dependencies:
       '@types/filesystem': 0.0.32
       '@types/har-format': 1.2.9
